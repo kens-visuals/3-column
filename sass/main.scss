@@ -27,15 +27,21 @@ html {
     }
   }
 
+  @media screen and (max-width: 1006px) {
+    & {
+      font-size: 52%; // 100% / 20px = 50%
+    }
+  }
+
   @media screen and (max-width: 768px) {
     & {
-      font-size: 45%; // 100% / 20px = 50%
+      font-size: 60%; // 100% / 20px = 50%
     }
   }
 
   @media screen and (max-width: 414px) {
     & {
-      font-size: 40%; // 100% / 20px = 50%
+      font-size: 50%; // 100% / 20px = 50%
     }
   }
 

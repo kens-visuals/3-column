@@ -10,12 +10,15 @@ html {
   @media screen and (max-width: 1254px) {
     html {
       font-size: 60%; } }
+  @media screen and (max-width: 1006px) {
+    html {
+      font-size: 52%; } }
   @media screen and (max-width: 768px) {
     html {
-      font-size: 45%; } }
+      font-size: 60%; } }
   @media screen and (max-width: 414px) {
     html {
-      font-size: 40%; } }
+      font-size: 50%; } }
   @media screen and (max-width: 375px) {
     html {
       font-size: 50%; } }
