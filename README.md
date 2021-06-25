@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [TO BE UPDATED](https://your-solution-url.com)
+- Live Site URL: [https://kens-visuals.github.io/3-column/](https://kens-visuals.github.io/3-column/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- CSS Flexbox
 - CSS Grid
 - Mobile-first workflow
 
@@ -81,11 +81,13 @@ Planning on using more CSS Grid and Flexbox, to improve the overall workflow and
 ### Useful resources
 
 - [stackedit.io](https://stackedit.io/) - This website helped me to write my markdown files faster and easier, highly recommended.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+
+- [Flexbox Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/) and [Grid Cheat Sheet](https://yoksel.github.io/grid-cheatsheet/) - These two amazing websites can be very useful for beginners to improve their skills in CSS flexbox and grid.
+
 
 ## Author
 
-- Website - [Add your name here](https://github.com/kens-visuals)
+- Codewars - [kens_visuals](https://www.codewars.com/users/kens_visuals)
 - Frontend Mentor - [@kens-visuals](https://www.frontendmentor.io/profile/kens-visuals)
 - Twitter - [@kens_visuals](https://twitter.com/kens_visuals)
 
