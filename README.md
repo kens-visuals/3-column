@@ -1,7 +1,6 @@
-
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). 
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
 
 ## Table of contents
 
@@ -15,7 +14,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-
 
 ## Overview
 
@@ -32,7 +30,6 @@ Users should be able to:
 
 ![mobile_screenshot](./images/mobile_screenshot.png)
 
-
 ### Links
 
 - Solution URL: [TO BE UPDATED](https://your-solution-url.com)
@@ -48,7 +45,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
 ### What I learned
 
 I experimented with CSS Grid where my goal was to make the project fully responsive using media queries as little as possible
@@ -56,23 +52,23 @@ I experimented with CSS Grid where my goal was to make the project fully respons
 To see how you can add code snippets, see below:
 
 ```html
-<div  class="col">
-   <div  class="col--1">
-      <h1  class="col__heading">Sedans</h1>
-      <p  class="col__text">Choose a sedan for its affordability...</p>
-      <a  class="btn orange">Learn more</a>
-   </div>
+<div class="col">
+  <div class="col--1">
+    <h1 class="col__heading">Sedans</h1>
+    <p class="col__text">Choose a sedan for its affordability...</p>
+    <a class="btn orange">Learn more</a>
+  </div>
 </div>
 ```
+
 ```css
-.col  {
+.col {
   /* ... */
-  display:  grid;
-  grid-template-columns:  repeat(auto-fit,  minmax(20rem,  1fr));
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
   /* ... */
 }
 ```
-
 
 ### Continued development
 
@@ -84,12 +80,8 @@ Planning on using more CSS Grid and Flexbox, to improve the overall workflow and
 
 - [Flexbox Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/) and [Grid Cheat Sheet](https://yoksel.github.io/grid-cheatsheet/) - These two amazing websites can be very useful for beginners to improve their skills in CSS flexbox and grid.
 
-
 ## Author
 
 - Codewars - [kens_visuals](https://www.codewars.com/users/kens_visuals)
 - Frontend Mentor - [@kens-visuals](https://www.frontendmentor.io/profile/kens-visuals)
 - Twitter - [@kens_visuals](https://twitter.com/kens_visuals)
-
-
-
