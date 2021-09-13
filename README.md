@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [TO BE UPDATED](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/css-custom-properties-css-flexbox-css-grid-xOljzZQUJ](https://www.frontendmentor.io/solutions/css-custom-properties-css-flexbox-css-grid-xOljzZQUJ)
 - Live Site URL: [https://kens-visuals.github.io/3-column/](https://kens-visuals.github.io/3-column/)
 
 ## My process
@@ -38,7 +38,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- SCSS variables
 - CSS Flexbox
 - CSS Grid
 - Mobile-first workflow
@@ -80,6 +80,6 @@ Planning on using more CSS Grid and Flexbox, to improve the overall workflow and
 
 ## Author
 
-- Codewars - [kens_visuals](https://www.codewars.com/users/kens_visuals)
 - Frontend Mentor - [@kens-visuals](https://www.frontendmentor.io/profile/kens-visuals)
-- Twitter - [@kens_visuals](https://twitter.com/kens_visuals)
+- Codewars - [@kens_visuals](https://www.codewars.com/users/kens_visuals)
+- CodePen - [@kens-visuals](https://codepen.io/kens-visuals)
